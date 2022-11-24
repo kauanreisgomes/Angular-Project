@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    background-color: #282828;
+   
+}
+
+#divTable{
+    max-width: 90%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#tbUpdates{
+    background-color: rgba(240, 240, 240, 0.646);
+    height: 100%;
+}
+
+#divSearch{
+
+    max-width: 90%;
+    display: block;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+
+
+#inputSearch{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    max-width: 700px;
+    display: inline-block;
+}
+
+#divFooter{
+    display: inline-block;
+    max-width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+#divPagination{
+    display: inline-block;
+}
+
+#divSelectPage{
+    display: inline-block;
+    margin-left: 10px;
+}
