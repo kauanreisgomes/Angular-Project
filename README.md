@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-
+First use the command: `npm install --legacy-peer-deps` in folder where has the project angular.<br>
 Make sure the webservice is running!<br>
 Web Services Project: https://github.com/kauanreisgomes/wsMicrosoft<br>
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
